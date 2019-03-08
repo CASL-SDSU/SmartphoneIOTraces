@@ -1,0 +1,1 @@
+cmd_drivers/mmc/host/built-in.o :=  /home/dzhou/WorkSpace_nexus5/arm-eabi-4.6/bin/arm-eabi-ld -EL    -r -o drivers/mmc/host/built-in.o drivers/mmc/host/sdhci.o drivers/mmc/host/msm_sdcc.o drivers/mmc/host/msm_sdcc_dml.o drivers/mmc/host/sdhci-pltfm.o drivers/mmc/host/sdhci-msm.o 
